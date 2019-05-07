@@ -1,0 +1,37 @@
+
+
+
+.navigation {
+    background-color: red;
+    color: white;
+}
+
+.navigation h2 {
+    background-color:firebrick;
+    color: white;
+}
+
+.principal p {
+    line-height: 25px;
+    font-size: 20px;
+    font-family: arial;
+}
+
+a {
+    text-decoration: none;
+    
+}
+
+ul {
+    list-style:none;
+    padding-left: -40px;
+    
+}
+
+figcaption {
+    background: #848484;
+}
+
+#name {
+    color:red;
+}
